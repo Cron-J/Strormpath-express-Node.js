@@ -1,0 +1,13 @@
+{
+  "name": "CronjStormpathExample",
+  "description": "www.cronj.com",
+  "version": "0.1.0",
+  "main": "server",
+  "engines": {
+    "node": ">=0.10.22"
+  },
+  "dependencies": {
+    "express": "~3.3.4",
+    "express-stormpath": "^0.6.3"
+  }
+}
