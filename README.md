@@ -1,7 +1,7 @@
-Express-Mongoose-Angular Example
+Sample Application Using Stormpath-Express-Node.js
 ================================
 
-The purpose of this app is to show a new way to work with Express.js, Mongodb, Mongoose, Angular.js.
+The purpose of this app is to show a new way to work with Stormpath. Express.js, Mongodb, Mongoose.
 
 
 ### Install an app
@@ -10,11 +10,7 @@ Run the following command in root directory of an app in command prompt.
 
 ###### *Install node packages*
 
-server/ node install
-
-###### *Install bower components*
-
-client/src/ bower install
+npm install
 
 ### Run an app
 
@@ -22,10 +18,9 @@ client/src/ bower install
 
 Run the following command in root directory of an app in command prompt.
 
-server/ node server.js
+node server.js
 
 You can see the port number in command prompt after sucessfull run
 
-You can change the settings in server/config/config.js file
 
 
