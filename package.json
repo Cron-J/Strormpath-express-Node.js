@@ -9,5 +9,16 @@
   "dependencies": {
     "express": "~3.3.4",
     "express-stormpath": "^0.6.3"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "stormpath",
+    "angular"
+  ],
+  "author": {
+    "name": "gaurav gupta",
+    "email": "gaurav_bng@hotmail.com",
+    "website": "www.cronj.com"
   }
 }
